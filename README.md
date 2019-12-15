@@ -7,3 +7,5 @@ H. Sundar, T. V. Sreenivas and C. S. Seelamantula, "TDOA-Based Multiple Acoustic
 
 doi: 10.1109/TASLP.2018.2851147
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8398408&isnumber=8429900
+
+An example of running the proposed localization algorithm on 10 samples of raw multichannel audio data (synthesized) is given in "BaselineResults.m".
